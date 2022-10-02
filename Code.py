@@ -7,7 +7,7 @@ special_chars = string.punctuation
 
 alphabet = letters + digits + special_chars
 
-pass_length = 12
+pass_length = 32
 
 passw = ''
 for i in range(pass_length):
